@@ -1,0 +1,24 @@
+{
+  "site": {
+    "title": "colorvector.net",
+    "tagline": "A productivity-focused development initiative creating tools to streamline work, enhance efficiency, and support creative problem-solving."
+  },
+  "sections": {
+    "projects": "Projects"
+  },
+  "labels": {
+    "visit": "Visit"
+  },
+  "projects": [
+    {
+      "codename": "Ginger Brown",
+      "description": "Addresses a common connectivity issue on public Wi-Fi networks that require authentication via a redirect page. Serves all content over plain HTTP to better trigger login redirects. Intentionally minimal — it exists solely to facilitate the connection process.",
+      "url": "http://http.colorvector.net/"
+    }
+  ],
+  "footer": {
+    "copyright": "© {year} Takayuki Okazaki"
+  }
+}
+
+
